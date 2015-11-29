@@ -5,7 +5,7 @@ This is a native C++ Wrapper for the Chroma SDK. It currently only supports Keyb
 0.0.1
 
 ### Preperation
-After checkout create a folder called "sdk" an include the following files from the Razer SDK:
+After checkout create a folder called "sdk" and include the following files from the Razer SDK:
 
 - RzChromaSDKDefines.h
 - RzChromaSDKTypes.h
