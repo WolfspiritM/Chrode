@@ -44,6 +44,9 @@ if(init){
     	}	
     }
     
+    Chroma.Keyboard.SetCustom(customGrid);
+    
+    
     setTimeout(function(){
         // Uninitialize Chroma
 		console.log(Chroma.UnInitChroma());
